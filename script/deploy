@@ -1,0 +1,5 @@
+cd /root/hello-jenkins/
+git pull
+npm install --production
+forever restartall
+exit
